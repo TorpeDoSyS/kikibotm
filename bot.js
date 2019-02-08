@@ -283,7 +283,7 @@ ${prefix}queue ⇏ ♠لمعرفة قآئمة التشغيل❗
 
 
 client.on('ready', () => {
-client.user.setGame('Music II 2Play ','https://www.twitch.tv/kemo355');
+client.user.setGame('Music II 1Play ','https://www.twitch.tv/kemo355');
 console.log('Logging into discord..');
 console.log(`
 By TorpeDoSyS
